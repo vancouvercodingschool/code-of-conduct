@@ -95,7 +95,7 @@ If the person who is harassing you is part of the response team, they will recus
 
 ## Attribution & Acknowledgements
 
-We all stand on the shoulders of giants across many open source communities. We’d like to thank the communities and projects that established codes of conduct and diversity statements as our inspiration, like [Todo Group](http://todogroup.org/opencodeofconduct),
+We all stand on the shoulders of giants across many open source communities. We’d like to thank the communities and projects that established codes of conduct and diversity statements as our inspiration, like [Code Fellows](https://www.codefellows.org), [Todo Group](http://todogroup.org/opencodeofconduct),
 [Python](https://www.python.org/community/diversity/),
 [Contributor Covenant](http://contributor-covenant.org/),
 [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/),
